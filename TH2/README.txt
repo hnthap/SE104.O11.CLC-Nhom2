@@ -1,1 +1,0 @@
-Bài thực hành 2: Bài tập 1
