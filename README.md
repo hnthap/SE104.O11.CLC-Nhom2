@@ -6,3 +6,4 @@ Board: https://trello.com/b/VSSR9tdB/b%C3%A0i-t%E1%BA%ADp-th2
 
 Members:
 * 21521457 &ndash; Huỳnh Nhân Thập
+* 21522078 &ndash; Trịnh Nhân Hiếu
